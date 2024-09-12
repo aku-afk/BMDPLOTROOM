@@ -1,9 +1,9 @@
 # PLOTTING RUANGAN
 
-![P1](https://github.com/user-attachments/assets/a75f85de-a901-4439-840c-e406be539c27)
+![P1](https://github.com/user-attachments/assets/4bde9546-ebf5-4ba1-abc8-05130d8ab61a)
 
-![P2](https://github.com/user-attachments/assets/b84bff6f-0875-4e84-8d0f-65cbc91ef788)
+![P2](https://github.com/user-attachments/assets/caeaa4c0-0c34-470e-a670-c5711a802ca7)
 
-![P3](https://github.com/user-attachments/assets/fb198c64-a6e5-4c20-a925-12f8e4f6717e)
+![P3](https://github.com/user-attachments/assets/01150754-ec94-4d69-9cfa-537e7d488d95)
 
-![P4](https://github.com/user-attachments/assets/c4619db6-849d-475e-a5a8-1b20b61e8c52)
+![P4](https://github.com/user-attachments/assets/4a85e7ec-62b6-412a-9c23-78b2b123d671)
